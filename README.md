@@ -1,4 +1,4 @@
-# Screen Recording Script for Cinnamon Desktop
+# Screen Recording Script for Linux Desktop
 
 A bash script for recording a specific region of your Linux desktop with separate audio tracks for easy editing. Perfect for creating YouTube-ready content without requiring a dedicated video editor.
 
